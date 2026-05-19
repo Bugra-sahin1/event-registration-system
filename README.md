@@ -56,3 +56,9 @@ event-registration-system/
 ├── show_events.php
 ├── style.css
 └── success.php
+```
+## Contributors
+
+This project was developed as a group project for the IT306 Server Side Programming course.
+
+My contributions included event creation, event editing, registration editing, event listing, registration flow, homepage structure, success page, and database setup.
