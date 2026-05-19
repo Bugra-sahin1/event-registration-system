@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f1f2f3;
+    color: #222;
+}
+
+h1, h2, h3 {
+    color: #1a5fc7;
+    text-decoration: none;
+    margin-right: 12px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+form {
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    width: fit-content;
+
+}
+
+input, button {
+    padding: 6px;
+    margin: 4px;
+}
+
+button {
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 15px;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px
+}
+th {
+    background-color: #1a5fc7;
+}
+
+.event-card {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 15px 0;
+    width: 500px;
+}
